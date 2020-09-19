@@ -1,0 +1,11 @@
+name: "MyLabJournal"
+navbar:
+  title: "MyLabJournal"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Articples and Publications"
+      href: Journal.html
+    - text: "Educations and Awards"
+      href: Links.html
+output_dir: "docs"

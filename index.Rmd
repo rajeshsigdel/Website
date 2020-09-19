@@ -1,0 +1,44 @@
+---
+title: "Rajesh Sigdel"
+output: html_document
+---
+
+<style type="text/css">
+.title {
+  display: none;
+}
+
+#getting-started img {
+  margin-right: 10px;
+}
+
+</style>
+
+<div class="row" style="padding-top: 30px;">
+<div class="col-sm-6">
+
+# **Rajesh Sigdel**
+
+I am a Ph.D student at the University of North Carolina at Greensboro in the department of Geography. My research interest lies at the intersection of the 
+
+## Tools in my toolbox
+
+1. ArcGIS 
+
+2. Structured Query Language
+
+3. R for Statistical Analysis
+
+4. Python
+
+
+</div>
+<div class="col-sm-6">
+
+### River and Raj
+
+![](images/logo.jpg)
+</a>
+</div>
+
+This website is created using R language. 

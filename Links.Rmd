@@ -1,0 +1,23 @@
+---
+title: "Resources"
+output: html_document
+---
+
+### Education
+
+
+* Ph.D in Geography - University of North Carolina at Greensboro, Greensboro, NC -Expected Graduation: 2022
+* MS in Geography - Western Michigan University, Kalamazoo, MI - 2019
+* MS in Biology - Grand Valley State University, Allandale, MI - 2017
+* Bsc. in Environmental Science - Tribhuvan University, Kathmandu, Nepal - 2014
+
+### Honors and Awards
+
+1. Graduate Dean Citation of Academic Excellence - Excellence in Service to the Community or Profession (2017): Grand Valley State University
+  
+2. Graduate Research and Creative Scholar Award (2019): Department of Geography, Environment, and Toursim of Western Michigan University
+  
+3. 2nd Place Winner in 3 Minute Thesis Competition (2019): Western Michigan University [(Click here to watch the video)](https://www.youtube.com/watch?v=eomfFC7JtsQ&t=10s)
+
+4. 1st Place Winner in Great Lakes AAG Masters Degree Student Research Competition 
+

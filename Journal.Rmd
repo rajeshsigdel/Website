@@ -1,0 +1,40 @@
+---
+title: "Articles and Publication"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    collapsed: false
+    number_sections: false
+    toc_depth: 1
+    #code_folding: hide
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
+```
+
+
+
+## Scientific Journal
+
+
+1. Recruitment of large woody debris following the 2016 Chimney Tops 2 wildfire: Great Smoky Mountains National Park, Tennessee (In press: *River Research and Applications*): Coauthored with Dr. Sarah Praskievicz
+  
+  
+  
+## Medium
+
+1. [Improve Your Visualization Skills Using Tufte’s Principles of Graphical Design (Published in Nightingale)](https://medium.com/nightingale/improve-your-visualization-skills-using-tuftes-principles-of-graphical-design-3a0f40a53a2c)
+
+2. [Analyzing and Visualizing Ecological Data in R](https://medium.com/swlh/ecology-and-data-science-in-r-4f58b1cd5c3d)
+  
+  
+## Thesis and Project
+
+1. [Using Remotely Sensed Imagery to Examine Changing Urban Using Remotely Sensed Imagery to Examine Changing Urban Land Cover Across Time and Topography: A Study of Nepal’s Land Cover Across Time and Topography: A Study of Nepal’s Kathmandu Valley](https://scholarworks.wmich.edu/cgi/viewcontent.cgi?article=5351&=&context=masters_theses&=&sei-redir=1&referer=https%253A%252F%252Fwww.bing.com%252Fsearch%253Fq%253Drajesh%252Bsigdel%252Bgeography%252Bdepartment%252Bthesis%2526form%253DEDGTCT%2526qs%253DPF%2526cvid%253D4260b7e3f53e47ffbd7d9c840d6f6697%2526refig%253D75dbbf8971ec4844ba22bb6fd6a8e58b%2526cc%253DUS%2526setlang%253Den-US%2526plvar%253D0#search=%22rajesh%20sigdel%20geography%20department%20thesis%22)
+  
+    
+2. [Assessment of Environmental Stressors in the Indian Mill Creek Watershed ](https://www.lgrow.org/news/2017/11/27/assessment-of-environmental-stressors-in-the-indian-mill-creek-watershed)
+
+
