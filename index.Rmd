@@ -19,7 +19,7 @@ output: html_document
 
 # **Rajesh Sigdel**
 
-I am a Ph.D student at the University of North Carolina at Greensboro in the department of Geography. My research interest lies at the intersection of the 
+I am a Ph.D student at the University of North Carolina at Greensboro in the department of Geography. My research interest lies at the intersection of the human and environment. I am particularly interested in understanding the how river science...... 
 
 ## Tools in my toolbox
 
@@ -41,4 +41,4 @@ I am a Ph.D student at the University of North Carolina at Greensboro in the dep
 </a>
 </div>
 
-This website is created using R language. 
+**This website is created using R language and is hosted in github**
