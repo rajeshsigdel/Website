@@ -8,6 +8,7 @@ navbar:
       icon: fa-book
       href: Journal.html
     - text: "Educations and Awards"
+      icon: fa-user-graduate
       href: Links.html
 output_dir: "docs"
 output:
