@@ -1,0 +1,7 @@
+---
+title: "About me"
+output: html_document
+---
+  
+I am originally from Nepal. 
+

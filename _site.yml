@@ -12,10 +12,10 @@ navbar:
       href: Links.html
     - text: "Projects"
       icon: fa-laptop
-      href: Links.html
+      href: Projects.html
     - text: "About me"
       icon: fa-user
-      href: Links.html
+      href: About.html
   right:
     - icon: fa-code fa-lg
       href: https://github.com/rajeshsigdel
