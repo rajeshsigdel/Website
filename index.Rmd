@@ -1,5 +1,5 @@
 ---
-title: "Rajesh Sigdel"
+title: "Home"
 output: html_document
 ---
 
@@ -23,13 +23,13 @@ I am a Ph.D student at the University of North Carolina at Greensboro in the dep
 
 ## Tools in my toolbox
 
-1. ArcGIS 
+1. <i class="fas fa-globe-americas"></i> ArcGIS 
 
-2. Structured Query Language
+2. <i class="fas fa-database"></i> Structured Query Language
 
-3. R for Statistical Analysis
+3. <i class="fab fa-r-project"></i> R for Statistical Analysis
 
-4. Python
+4. <i class="fab fa-python"></i> Python
 
 
 </div>
