@@ -1,6 +1,8 @@
 ---
 title: "About me"
-output: html_document
+output: 
+  html_document:
+    theme: darkly
 ---
 <style type="text/css">
 .title {
@@ -19,6 +21,10 @@ output: html_document
 
 I am originally from Nepal. I was born in Sunsari (Eastern part of Nepal) and was raised in Kathmandu. I came to the United States in 2011. 
 
+</div>
+<div class="col-sm-6">
+
+### Beautiful Nepal
 
 ![](images/Nepal1.jpg)
 Photo by Giuseppe Mondì on Unsplash

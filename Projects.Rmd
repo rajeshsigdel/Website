@@ -1,6 +1,8 @@
 ---
 title: "Projects"
-output: html_document
+output: 
+  html_document:
+    theme: darkly
 ---
   
-I love working data. 
+I love working with data. 
