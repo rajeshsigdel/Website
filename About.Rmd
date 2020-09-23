@@ -1,8 +1,6 @@
 ---
 title: "About me"
-output: 
-  html_document:
-    theme: darkly
+output: html_document
 ---
 <style type="text/css">
 .title {
@@ -18,11 +16,11 @@ output:
 <div class="row" style="padding-top: 30px;">
 <div class="col-sm-6">
 
-
+### My origin story
 I am originally from Nepal. I was born in Sunsari (Eastern part of Nepal) and was raised in Kathmandu. I came to the United States in 2011. 
 
 </div>
-<div class="col-sm-6">
+<div class="col-sm-4">
 
 ### Beautiful Nepal
 
