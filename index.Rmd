@@ -31,7 +31,15 @@ I am a Ph.D student at the University of North Carolina at Greensboro in the dep
 
 4. <i class="fab fa-python"></i> Python
 
+---
 
+### Membership 
+*   Water Specialty Group of American Association of Geographers, 
+*   Data Visualization Society
+
+---
+
+I also actively blog about data analytics and Science in Medium [<i class="fab fa-medium-m"></i>](https://medium.com/@r_sigdel)
 </div>
 <div class="col-sm-6">
 
@@ -41,4 +49,4 @@ I am a Ph.D student at the University of North Carolina at Greensboro in the dep
 </a>
 </div>
 
-**This website is created using R language and is hosted in github**
+*This website is created using <i class="fab fa-r-project"></i> and is hosted in <i class="fa fa-github" aria-hidden="true"></i>*
