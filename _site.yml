@@ -3,6 +3,7 @@ navbar:
   title: "MyLabJournal"
   left:
     - text: "Home"
+      icon: fas fa-home
       href: index.html
     - text: "Articles and Publications"
       icon: fa-book
