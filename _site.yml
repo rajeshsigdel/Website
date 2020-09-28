@@ -13,7 +13,11 @@ navbar:
       href: Links.html
     - text: "Projects"
       icon: fa-laptop
-      href: Projects.html
+      menu:
+        - text: "R Tutorials"
+          href: tutorials.html
+        - text: "Projects"
+          href: Projects.html
     - text: "About me"
       icon: fa-user
       href: About.html

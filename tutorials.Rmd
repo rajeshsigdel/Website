@@ -1,0 +1,10 @@
+---
+title: "R Tutorial"
+output: html_document
+---
+Step by step 
+###R pubs
+
++ Understanding Correlation
++ Visualization of Asian Immigrant percentage of United States of 2017
++ Elevation Range of Herpetofaunal Species
