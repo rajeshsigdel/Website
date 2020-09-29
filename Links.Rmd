@@ -1,8 +1,12 @@
 ---
 title: "Education and Awards"
-output: 
+output:
   html_document:
-    theme: darkly
+    toc: true
+    toc_float: true
+    collapsed: false
+    number_sections: false
+    df_print: paged
 ---
 
 ### Education
@@ -15,11 +19,19 @@ output:
 
 ### Honors and Awards
 
-1. Graduate Dean Citation of Academic Excellence - Excellence in Service to the Community or Profession (2017): Grand Valley State University
+* Graduate Dean Citation of Academic Excellence (2017): Grand Valley State University
+  + This award is given for Excellence in Service to the Community or Profession
   
-2. Graduate Research and Creative Scholar Award (2019): Department of Geography, Environment, and Toursim of Western Michigan University
+* Graduate Research and Creative Scholar Award (2019): Department of Geography, Environment, and Toursim of Western Michigan University
+  + For outstanding contribution to the field of GIS. 
   
-3. 2nd Place Winner in 3 Minute Thesis Competition (2019): Western Michigan University [(Click here to watch the video)](https://www.youtube.com/watch?v=eomfFC7JtsQ&t=10s)
+* 2nd Place Winner in 3 Minute Thesis Competition (2019): Western Michigan University 
+   + Presented objectives, methods, results, and conclusion of the research within 3 minutes. 
 
-4. 1st Place Winner in Great Lakes AAG Masters Degree Student Research Competition 
+<div align="center">
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/eomfFC7JtsQ" frameborder="0" allowfullscreen></iframe>  
+   Click play button to watch the video
+</div>
 
+* 1st Place Winner in Great Lakes AAG Masters Degree Student Research Competition 
+   + Presented objectives, methods, results, and conclusion of the research within 20 minutes. 
