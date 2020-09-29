@@ -23,7 +23,7 @@ navbar:
       href: About.html
   right:
     - icon: fa-code fa-lg
-      href: https://github.com/rajeshsigdel
+    # href: https://github.com/rajeshsigdel
     - icon: fa-twitter
       href: https://twitter.com/GeoStudentRaj
 output_dir: "docs"
