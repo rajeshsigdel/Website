@@ -45,7 +45,7 @@ I used Digital Elevation model and Rayshader package in R to generate the 3D sur
 <br>
 <br>
   
-![](images/WatershedStudyTIN.jpg)
+![](images/TINmap1.jpg)
 </a>
 </div>
 
