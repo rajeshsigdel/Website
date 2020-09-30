@@ -7,11 +7,11 @@ navbar:
       href: index.html
     - text: "Articles and Publications"
       icon: fa-book
-      href: Journal.html
+      href: Articles.html
     - text: "Educations and Awards"
       icon: fa-user-graduate
       href: Links.html
-    - text: "Projects"
+    - text: "Tutorials and Projects"
       icon: fa-laptop
       menu:
         - text: "R Tutorials"

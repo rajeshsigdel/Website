@@ -15,7 +15,7 @@ output:
 }
 
 #getting-started img {
-  margin-right: 20px;
+  margin-right: 10px;
 }
 
 </style>
@@ -36,14 +36,16 @@ Watershed is an area of the land that drains into a common outlet (pour point). 
 + The watershed tool was used to create the outline of the watershed. The raster was then converted to shapefile. 
 + I then used convert raster to TIN to create TIN map of the study site. 
 
+---
+### 3D surface
+I used Digital Elevation model and Rayshader package in R to generate the 3D surface. 
+
 </div>
 <div class="col-sm-6">
-
-
+<br>
+<br>
+  
 ![](images/WatershedStudyTIN.jpg)
 </a>
 </div>
 
-
-### 3D surface
-I used Digital Elevation model and Rayshader package in R to generate the 3D surface. 
