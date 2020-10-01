@@ -30,6 +30,15 @@
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+      </style>
+
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
   pre:not([class]) {
@@ -315,6 +324,12 @@ div.tocify {
   border-radius: 0px;
 }
 
+.tocify-subheader {
+  display: inline;
+}
+.tocify-subheader .tocify-item {
+  font-size: 0.95em;
+}
 
 </style>
 
@@ -425,28 +440,37 @@ div.tocify {
 </div>
 
 
-<style type="text/css">
-div.polaroid {
-  width: 80%;
-  background-color: white;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-}
+<p><br />
+<i class="fas fa-project-diagram "></i> I have tried to list here all the projects that I have worked on including big projects, class projects or even small trivial things that I did during my school time.</p>
+<p><br />
+</p>
+<div id="hill-slope-hydrology" class="section level1">
+<h1><span class="header-section-number">1</span> Hill Slope Hydrology</h1>
+<p>I have tried to list here all the projects that I have worked on including big projects, class projects or even small trivial things that I did during my school time.</p>
+<br />
 
-img {width: 100%}
-
-div.container {
-  text-align: center;
-  padding: 10px 20px;
-}
-</style>
 <div class="col-sm-6">
 <p><img src="images/HillSlopeNB.jpg" /></p>
 </div>
-<div id="hill-slope-hydrology" class="section level1">
-<h1><span class="header-section-number">1</span> Hill Slope Hydrology</h1>
+<div id="tin-map" class="section level2">
+<h2><span class="header-section-number">1.1</span> TIN Map</h2>
 <p>Watershed is an area of the land that drains into a common outlet (pour point). Triangulated Irregular Networks are useful in visualizing terrain of the earth. I created a Triangular Irregular Network of my study site of the North Buffalo Creek using ArcMap 10.5.Following steps was used:</p>
 <p>Two feet interval contour interval of the Guilford county, downloaded from the North Carolina State GIS, was used during the process. Conversion of contour line file into Digital Elevation Model (DEM). Used fill tool to fill the small unnatural potholes of the surface. The fill tool smoothens out the surface. The flow direction tool was utilized to determine the direction of the flow from each raster cell. Flow accumulation tool was used to capture flow of the raster file. The outlet point (pour point) was used to capture the flow of the file. The intersection of North Buffalo Creek in Yanceyville street of Greensboro was identified as the pour point. The watershed tool was used to create the outline of the watershed. The raster was then converted to shapefile. I then used convert raster to TIN to create TIN map of the study site.</p>
 <hr />
+<div class="col-sm-6">
+<p><img src="images/WatershedStreets.jpg" /></p>
+</div>
+</div>
+<div id="introduction" class="section level2">
+<h2><span class="header-section-number">1.2</span> Introduction</h2>
+<p>sed fill tool to fill the small unnatural potholes of the surface. The fill tool smoothens out the surface. The flow direction tool was utilized to determine the direction of the flow from each raster cell. Flow accumulation tool was used to capture flow of the raster file. The outlet point (pour point) was used to capture the flow of the file. The intersection of North Buffalo Creek in Yanceyville street of Greensboro was identified as the pour point. The watershed tool was used to create the outline of the watershed. The raster was then converted to shapefile.<br />
+<br />
+<br />
+<br />
+<br />
+</p>
+<hr />
+</div>
 </div>
 <div id="d-surface" class="section level1">
 <h1><span class="header-section-number">2</span> 3D Surface</h1>
@@ -523,7 +547,7 @@ $(document).ready(function ()  {
       ignoreSelector: ".toc-ignore",
       scrollTo: 0
     };
-    options.showAndHide = true;
+    options.showAndHide = false;
     options.smoothScroll = true;
 
     // tocify
