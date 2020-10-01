@@ -4,8 +4,7 @@ output:
   html_document:
     toc: true
     toc_float: true
-    collapsed: false
-    number_sections: false
+    number_sections: true
     df_print: paged
 ---
   
@@ -23,7 +22,7 @@ output:
 <div class="row" style="padding-top: 30px;">
 <div class="col-sm-6">
 
-### Watershed and TIN model
+### 1 Watershed and TIN model
   
 Watershed is an area of the land that drains into a common outlet (pour point). Triangulated Irregular Networks are useful in visualizing terrain of the earth. I created a Triangular Irregular Network of my study site of the North Buffalo Creek using ArcMap 10.5.Following steps was used: 
   
@@ -37,7 +36,7 @@ Watershed is an area of the land that drains into a common outlet (pour point). 
 + I then used convert raster to TIN to create TIN map of the study site. 
 
 ---
-### 3D surface
+### 2 3D surface
 I used Digital Elevation model and Rayshader package in R to generate the 3D surface. 
 
 </div>
