@@ -49,4 +49,7 @@ I also actively blog about data analytics and Science in Medium [<i class="fab f
 </a>
 </div>
 
+
+[Click here to download academic CV](https://drive.google.com/file/d/1rKsheeQYrtmw8zmlGQzD7wpNtTadm7Xe/view?usp=sharing)
+
 *This website is created using <i class="fab fa-r-project"></i> and is hosted in <i class="fa fa-github" aria-hidden="true"></i>*
