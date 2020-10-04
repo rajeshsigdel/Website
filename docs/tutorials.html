@@ -11,7 +11,7 @@
 
 
 
-<title>R Tutorial</title>
+<title>Tutorials</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -19,9 +19,14 @@
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/pagedtable-1.1/css/pagedtable.css" rel="stylesheet" />
+<script src="site_libs/pagedtable-1.1/js/pagedtable.js"></script>
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 
@@ -260,6 +265,75 @@ $(document).ready(function () {
 
 
 
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+.tocify-subheader {
+  display: inline;
+}
+.tocify-subheader .tocify-item {
+  font-size: 0.95em;
+}
+
+</style>
+
+
 
 </head>
 
@@ -267,6 +341,16 @@ $(document).ready(function () {
 
 
 <div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row-fluid">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -351,18 +435,35 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">R Tutorial</h1>
+<h1 class="title toc-ignore">Tutorials</h1>
 
 </div>
 
 
-<p>Step by step ###R pubs</p>
-<p>Understanding Correlation<br />
-Visualization of Asian Immigrant percentage of United States of 2017<br />
-Elevation Range of Herpetofaunal Species</p>
+<p>It is harder to code or do the anlaysis when you don’t find exact step by step explanation with code. Here, i have laid out several projects that …</p>
+<div id="r-pubs" class="section level1">
+<h1><span class="header-section-number">1</span> R pubs</h1>
+<p>These tutorials are published in Rpubs. Rpubs is a platform by Rstudio where you can publish your Markdown document on the internet with a click of a button.</p>
+<div id="elevation-range-of-species" class="section level2">
+<h2><span class="header-section-number">1.1</span> Elevation Range of species</h2>
+<pre class="r"><code>knitr::include_graphics(&quot;images/elevation.png&quot;)</code></pre>
+<p><img src="images/elevation.png" width="70%" style="display: block; margin: auto;" /></p>
+<p>Have you every wondered how to Gantt Chart in R that shows the elevational rage of different species? <a href="https://rpubs.com/rajesh1/elevationGraph" target="&quot;_blank">Click here</a> to learn more about how to convert sparse matrix into tidy format and create Gantt Chart in R.</p>
+</div>
+<div id="understanding-correlation" class="section level2">
+<h2><span class="header-section-number">1.2</span> Understanding Correlation</h2>
+<p>Have you every wondered how to Gantt Chart in R that shows the elevational rage of different species? <a href="https://rpubs.com/rajesh1/elevationGraph" target="&quot;_blank">Click here</a> to learn more about how to convert sparse matrix into tidy format and create Gantt Chart in R.</p>
+</div>
+<div id="geojason-maps" class="section level2">
+<h2><span class="header-section-number">1.3</span> Geojason Maps</h2>
+<p>Have you every wondered how to Gantt Chart in R that shows the elevational rage of different species? <a href="https://rpubs.com/rajesh1/elevationGraph" target="&quot;_blank">Click here</a> to learn more about how to convert sparse matrix into tidy format and create Gantt Chart in R.</p>
+</div>
+</div>
 
 
 
+</div>
+</div>
 
 </div>
 
@@ -395,6 +496,32 @@ $(document).ready(function () {
 
 <!-- code folding -->
 
+<script>
+$(document).ready(function ()  {
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = false;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

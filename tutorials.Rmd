@@ -1,10 +1,34 @@
 ---
-title: "R Tutorial"
-output: html_document
+title: "Tutorials"
+output:
+  html_document:
+    toc: true
+    toc_float:
+      collapsed: false
+    number_sections: true
+    df_print: paged
 ---
-Step by step 
-###R pubs
 
-Understanding Correlation  
-Visualization of Asian Immigrant percentage of United States of 2017  
-Elevation Range of Herpetofaunal Species
+
+It is harder to code or do the anlaysis when you don't find exact step by step explanation with code. Here, i have laid out several projects that ... 
+
+
+# R pubs
+
+These tutorials are published in Rpubs. Rpubs is a platform by Rstudio where you can publish your Markdown document on the internet with a click of a button. 
+
+## Elevation Range of species
+
+```{r, out.width="70%", fig.align='center'}
+knitr::include_graphics("images/elevation.png")
+```
+
+
+Have you every wondered how to Gantt Chart in R that shows the elevational rage of different species? [Click here](https://rpubs.com/rajesh1/elevationGraph){target="_blank} to learn more about how to convert sparse matrix into tidy format and create Gantt Chart in R. 
+
+## Understanding Correlation  
+Have you every wondered how to Gantt Chart in R that shows the elevational rage of different species? [Click here](https://rpubs.com/rajesh1/elevationGraph){target="_blank} to learn more about how to convert sparse matrix into tidy format and create Gantt Chart in R. 
+
+
+## Geojason Maps 
+Have you every wondered how to Gantt Chart in R that shows the elevational rage of different species? [Click here](https://rpubs.com/rajesh1/elevationGraph){target="_blank} to learn more about how to convert sparse matrix into tidy format and create Gantt Chart in R. 
