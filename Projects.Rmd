@@ -14,7 +14,19 @@ output:
  <i class="fas fa-project-diagram "></i> I have tried to list here all the projects that I have worked on including big projects, class projects or even small trivial things that I did during my school time.
 
 \
- 
+
+# Great Smoky Mountains
+
+<div class="col-sm-6">
+![](images/lwd.jpg)
+</div>
+
+More than 40 km square was burned by the Chimney Tops 2 wildfire in Great Smokey Mountains National Parks. The fire did not only destroyed many structures outside the park, but also caused mass mortality of trees. In this project,  More than 40 km square was burned by the Chimney Tops 2 wildfire in Great Smokey Mountains National Parks. The fire did not only destroyed many structures outside the park, but also caused mass mortality of trees. In this project More than 40 km square was burned by the Chimney Tops 2 wildfire in Great Smokey Mountains National Parks. The fire did not only destroyed many structures outside the park, but also caused mass mortality of trees. In this projectMore than 40 km square was burned by the Chimney Tops 2 wildfire in Great Smokey Mountains National Parks. The fire did not only destroyed many structures outside the park, but also caused mass mortality of trees. *Photo: Raj and Lena collecting data in Smokey Mountain Natioanl Park*
+
+
+
+---
+
 # Hill Slope Hydrology
 I have tried to list here all the projects that I have worked on including big projects, class projects or even small trivial things that I did during my school time.
 
