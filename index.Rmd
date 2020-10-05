@@ -40,6 +40,12 @@ I am a Ph.D student at the University of North Carolina at Greensboro in the dep
 ---
 
 I also actively blog about data analytics and Science in Medium [<i class="fab fa-medium-m"></i>](https://medium.com/@r_sigdel)
+\
+\
+Academic CV (academic Jobs): 
+<a href = "https://drive.google.com/file/d/1rKsheeQYrtmw8zmlGQzD7wpNtTadm7Xe/view?usp=sharing" target= "_blank"> Click here to view </a>  
+
+Resume Created from R Markdown: <a href="https://drive.google.com/file/d/1AV7UYPcbSndFglXX2DT5EADWk6WZkSi2/view?usp=sharing" target= "_blank"> Click here to view </a> 
 </div>
 <div class="col-sm-6">
 
@@ -50,7 +56,7 @@ I also actively blog about data analytics and Science in Medium [<i class="fab f
 </div>
 
 
-<a href = "https://drive.google.com/file/d/1rKsheeQYrtmw8zmlGQzD7wpNtTadm7Xe/view?usp=sharing" target= "_blank"> Click here to view the academic CV </a>  
+
 
 
 This website is created using <i class="fab fa-r-project"></i> and is hosted in <i class="fa fa-github" aria-hidden="true"></i>
