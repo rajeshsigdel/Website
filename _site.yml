@@ -10,7 +10,7 @@ navbar:
       href: Articles.html
     - text: "Educations and Awards"
       icon: fa-user-graduate
-      href: Links.html
+      href: education.html
     - text: "Tutorials and Projects"
       icon: fa-laptop
       menu:

@@ -39,7 +39,7 @@ I am a Ph.D student at the University of North Carolina at Greensboro in the dep
 
 ---
 
-I also actively blog about data analytics and Science in Medium [<i class="fab fa-medium-m"></i>](https://medium.com/@r_sigdel)
+I also actively blog about Data  Analytics and Data Science in [Medium](https://medium.com/@r_sigdel){target="_blank"}
 \
 \
 Academic CV (academic Jobs): 
