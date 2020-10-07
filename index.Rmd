@@ -19,7 +19,7 @@ output: html_document
 
 # **Rajesh Sigdel**
 
-I am a Ph.D student at the University of North Carolina at Greensboro in the department of Geography. My research interest lies at the intersection of the human and environment. I am particularly interested in understanding the how river science...... 
+I am a Ph.D student and a lab member in Dr. Dr. Praskievicz’s River and Water Resources Lab, in the Department of Geography, Environment, and Sustainability at the University of North Carolina at Greensboro.
 
 ## Tools in my toolbox
 
