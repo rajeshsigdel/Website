@@ -6,7 +6,7 @@ output: html_document
 <br>
 
 
-## Education
+# Education
 
 ---
 
@@ -19,7 +19,7 @@ Bsc. in Environmental Science - Tribhuvan University, Kathmandu, Nepal - 2014
 \
 
 
-## Honors and Awards
+# Honors and Awards
 
 ---
 
