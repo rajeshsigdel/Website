@@ -4,14 +4,12 @@ output: html_document
 ---
 
 
-### My origin story
-I am originally from Nepal. I was born in Sunsari (Eastern part of Nepal) and was raised in Kathmandu. I came to the United States in 2011. 
 
 
-<div class="col-sm-4">
+<div class="col-sm-5">
 
-### Beautiful Nepal
+![](images/nepali.jpg)
 
-![](images/Nepal1.jpg)
-Photo by Giuseppe Mondì on Unsplash
 </div>
+
+I am originally from Nepal. I was born in Sunsari (Eastern part of Nepal) and was raised in Kathmandu. I came to the United States in 2011.

@@ -63,3 +63,12 @@ This video was taken by Graduate Student Association of Western Michigan Univers
 </div>
 
 ---
+
+---
+
+
+<img src="images/dean.jpg" width="500" height="350"/> <img src="images/wmuaward.jpg" width="400" height="350"/>
+
+---
+
+---
