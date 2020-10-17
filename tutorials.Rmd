@@ -10,8 +10,9 @@ output:
 ---
 
 
-It is harder to code or do the anlaysis when you don't find exact step by step explanation with code. Here, i have laid out several projects that ... 
+*Do you want to learn how to code in R?* Here are some of the tutorials that you can follow step by step to help you in your journey of learning R. 
 
+\
 
 # R pubs
 

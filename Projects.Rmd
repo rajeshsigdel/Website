@@ -11,8 +11,8 @@ output:
 
 
 \
- <i class="fas fa-project-diagram "></i> I have tried to list here all the projects that I have worked on including big projects, class projects or even small trivial things that I did during my school time.
-
+ <i class="fas fa-project-diagram "></i> These are some of the projects that I was/am involved in either in school as a student or in my professional life. 
+ 
 \
 
 # Great Smoky Mountains
@@ -21,7 +21,11 @@ output:
 ![](images/lwd.jpg)
 </div>
 
-More than 40 km square was burned by the Chimney Tops 2 wildfire in Great Smokey Mountains National Parks. The fire did not only destroyed many structures outside the park, but also caused mass mortality of trees. In this project,  More than 40 km square was burned by the Chimney Tops 2 wildfire in Great Smokey Mountains National Parks. The fire did not only destroyed many structures outside the park, but also caused mass mortality of trees. In this project More than 40 km square was burned by the Chimney Tops 2 wildfire in Great Smokey Mountains National Parks. The fire did not only destroyed many structures outside the park, but also caused mass mortality of trees. In this projectMore than 40 km square was burned by the Chimney Tops 2 wildfire in Great Smokey Mountains National Parks. The fire did not only destroyed many structures outside the park, but also caused mass mortality of trees. *Photo: Raj and Lena collecting data in Smokey Mountain Natioanl Park*
+Wood surveys in July and August of 2019 were conducted on four reaches in two watershed systems that were affected by the 2016 Chimney Tops 2 wildfire in Great Smokey Mountains National Park in Tennessee, USA. The goal of the study was to understand the relative significance of the burned wood in the total wood budget in streams. 
+
+After the field survey, I entered the data into an Excel sheet and performed data analysis. I also helped write the results of the project. Our study suggested that fire provides major influx of woody debris into streams. The manuscript of the research is under review for a scientific publication. 
+
+ *Photo: Raj and Lena collecting data in Smokey Mountain Natioanl Park*
 
 
 
