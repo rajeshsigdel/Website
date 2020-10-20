@@ -1,35 +1,30 @@
 ---
-title: "Tutorials"
-output:
-  html_document:
-    toc: true
-    toc_float:
-      collapsed: false
-    number_sections: true
-    df_print: paged
+output: html_document
 ---
 
+\
+\
 
 *Do you want to learn how to code in R?* Here are some of the tutorials that you can follow step by step to help you in your journey of learning R. 
 
 \
-
-# R pubs
-
-These tutorials are published in Rpubs. Rpubs is a platform by Rstudio where you can publish your Markdown document on the internet with a click of a button. 
+\
 
 ## Elevation Range of species
 
-```{r, out.width="70%", fig.align='center'}
-knitr::include_graphics("images/elevation.png")
-```
+Have you every wondered how to Gantt Chart in R that shows the elevational range of different species? [Click here](https://rpubs.com/rajesh1/elevationGraph){target="_blank} to learn more about how to convert sparse matrix into tidy format and create Gantt Chart in R. 
 
-
-Have you every wondered how to Gantt Chart in R that shows the elevational rage of different species? [Click here](https://rpubs.com/rajesh1/elevationGraph){target="_blank} to learn more about how to convert sparse matrix into tidy format and create Gantt Chart in R. 
+\
+\
 
 ## Understanding Correlation  
-Have you every wondered how to Gantt Chart in R that shows the elevational rage of different species? [Click here](https://rpubs.com/rajesh1/elevationGraph){target="_blank} to learn more about how to convert sparse matrix into tidy format and create Gantt Chart in R. 
 
+In this tutorial, I have exlained the different types of Correlation and how to compute them in R. [Click here](https://rpubs.com/rajesh1/563805){target="_blank} 
 
-## Geojason Maps 
-Have you every wondered how to Gantt Chart in R that shows the elevational rage of different species? [Click here](https://rpubs.com/rajesh1/elevationGraph){target="_blank} to learn more about how to convert sparse matrix into tidy format and create Gantt Chart in R. 
+\
+\
+
+## Bar Graph, Cluster Analyiss, and hexbin Map
+In this tutorial, you can learn about how to make Bar Graph, and how to compute cluster Analysis. You will also learn how to make Hexbin maps using GeoJason data.  [Click here](https://rpubs.com/rajesh1/610825){target="_blank}
+\
+\
