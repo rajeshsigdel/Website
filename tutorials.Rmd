@@ -8,23 +8,30 @@ output: html_document
 *Do you want to learn how to code in R?* Here are some of the tutorials that you can follow step by step to help you in your journey of learning R. 
 
 \
-\
+
 
 ## Elevation Range of species
+
+---
 
 Have you every wondered how to Gantt Chart in R that shows the elevational range of different species? [Click here](https://rpubs.com/rajesh1/elevationGraph){target="_blank} to learn more about how to convert sparse matrix into tidy format and create Gantt Chart in R. 
 
 \
-\
 
-## Understanding Correlation  
+
+## Understanding Correlation
+
+---
 
 In this tutorial, I have exlained the different types of Correlation and how to compute them in R. [Click here](https://rpubs.com/rajesh1/563805){target="_blank} 
 
 \
-\
 
-## Bar Graph, Cluster Analyiss, and hexbin Map
+
+## Bar Graph, Cluster Analyiss, and Hexbin Map
+
+---
+
 In this tutorial, you can learn about how to make Bar Graph, and how to compute cluster Analysis. You will also learn how to make Hexbin maps using GeoJason data.  [Click here](https://rpubs.com/rajesh1/610825){target="_blank}
 \
 \

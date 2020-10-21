@@ -45,9 +45,10 @@ I am a Ph.D student and a lab member in Dr. Praskievicz’s River and Water Reso
 I also actively blog about Data  Analytics and Data Science in [Medium](https://medium.com/@r_sigdel){target="_blank"}
 \
 \
-Academic CV (academic Jobs): 
-<a  target= "_blank"> Click here (update soon) </a>  
-Resume Created from R Markdown: <a  target= "_blank"> Click here (on the process of updating) </a> 
+CV (Academic): [Click here](https://drive.google.com/file/d/1AV7UYPcbSndFglXX2DT5EADWk6WZkSi2/view?usp=sharing){target="_blank"}
+
+
+CV (from R markdown): [Click here](https://drive.google.com/file/d/1qb2fK7uGStBeish8ymutKqvj-fxixEsa/view?usp=sharing){target="_blank"}
 </div>
 <div class="col-sm-6">
 
