@@ -26,9 +26,9 @@ I am a Ph.D student and a lab member in Dr. Praskievicz’s River and Water Reso
 
 ## Tools in my toolbox
 
-1. <i class="fas fa-globe-americas"></i> ArcGIS 
+1. <i class="fas fa-database"></i> Structured Query Language
 
-2. <i class="fas fa-database"></i> Structured Query Language
+2. <i class="fas fa-globe-americas"></i> ArcGIS 
 
 3. <i class="fab fa-r-project"></i> R for Statistical Analysis
 
