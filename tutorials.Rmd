@@ -9,6 +9,13 @@ output: html_document
 
 \
 
+## Analysis of Pilot Study Data
+
+---
+
+This publication features an analysis of data collected during a pilot study of dead large wood at Greensboro's North Buffalo Creek. [Click here](https://rpubs.com/rajesh1/701224){target="_blank} to download the data and to learn how to clean, manipulate, and reshape data using various packages in R. In this article, you will also learn how to make histograms, box and whisker plot, how to join tables, and how to conduct chi-square tests, and Kruskal Wallis tests.
+
+\
 
 ## Elevation Range of species
 
