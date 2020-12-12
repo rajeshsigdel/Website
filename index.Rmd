@@ -1,18 +1,36 @@
 ---
-title: "Home"
 output: html_document
 ---
 
 <style type="text/css">
-.title {
-  display: none;
+body {
+  font-size: 12pt;
 }
 
-#getting-started img {
-  margin-right: 10px;
+h1, h2, h3{
+  color: #4682B4;
+}
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+
+hr {
+  border-top: 5px solid #F0F8FF;
+}
+
+.clearfix {
+  overflow: auto;
+}
+
+img {
+  margin-right: 20px;
+  box-shadow: 5px 5px 10px #ccc;
 }
 
 </style>
+
+
 
 <div class="row" style="padding-top: 30px;">
 <div class="col-sm-6">
@@ -26,19 +44,22 @@ I am a Ph.D student and a lab member in Dr. Praskievicz’s River and Water Reso
 
 ## Tools in my toolbox
 
-1. <i class="fas fa-database"></i> Structured Query Language
+* <i class="fas fa-database"></i> Structured Query Language
 
-2. <i class="fas fa-globe-americas"></i> ArcGIS 
+* <i class="fas fa-chart-bar"></i> Tableau
 
-3. <i class="fab fa-r-project"></i> R for Statistical Analysis
+* <i class="fas fa-globe-americas"></i> ArcGIS 
 
-4. <i class="fab fa-python"></i> Python
+* <i class="fab fa-r-project"></i> R for Statistical Analysis
+
+* <i class="fab fa-python"></i> Python
 
 ---
 
 ## Membership 
-*   Water Specialty Group of American Association of Geographers, 
+
 *   Data Visualization Society
+*   Water Specialty Group of American Association of Geographers 
 
 ---
 

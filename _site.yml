@@ -30,4 +30,4 @@ output_dir: "docs"
 output:
   html_document:
     css: style_web.css
-    theme: darkly
+    theme: flatly
