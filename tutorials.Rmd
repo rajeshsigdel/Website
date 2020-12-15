@@ -49,7 +49,7 @@ This publication features an analysis of data collected during a pilot study of 
 
 ---
 
-Have you every wondered how to Gantt Chart in R that shows the elevational range of different species? [Click here](https://rpubs.com/rajesh1/elevationGraph){target="_blank} to learn more about how to convert sparse matrix into tidy format and create Gantt Chart in R. 
+Have you every wondered how to create Gantt Chart in R that shows the elevational range of different species? [Click here](https://rpubs.com/rajesh1/elevationGraph){target="_blank} to learn more about how to convert sparse matrix into tidy format and create Gantt Chart in R. 
 
 \
 
@@ -58,7 +58,7 @@ Have you every wondered how to Gantt Chart in R that shows the elevational range
 
 ---
 
-In this tutorial, I have exlained the different types of Correlation and how to compute them in R. [Click here](https://rpubs.com/rajesh1/563805){target="_blank} 
+In this tutorial, I have exlained the different types of Correlation and how to compute them in R. [Click here](https://rpubs.com/rajesh1/563805){target="_blank} to learn more about it.
 
 \
 
@@ -67,6 +67,6 @@ In this tutorial, I have exlained the different types of Correlation and how to 
 
 ---
 
-In this tutorial, you can learn about how to make Bar Graph, and how to compute cluster Analysis. You will also learn how to make Hexbin maps using GeoJason data.  [Click here](https://rpubs.com/rajesh1/610825){target="_blank}
+In this tutorial, you can learn about how to make Bar Graph, and how to compute cluster Analysis. You will also learn how to make a Hexbin map using GeoJason data.  [Click here](https://rpubs.com/rajesh1/610825){target="_blank}
 \
 \
