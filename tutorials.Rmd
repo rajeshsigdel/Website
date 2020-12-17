@@ -63,7 +63,7 @@ In this tutorial, I have exlained the different types of Correlation and how to 
 \
 
 
-## Bar Graph, Cluster Analyiss, and Hexbin Map
+## Bar Graph, Cluster Analysis, and Hexbin Map
 
 ---
 

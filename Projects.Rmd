@@ -44,6 +44,22 @@ img {
  
 \
 
+
+# North Buffalo Creek Pilot Study
+
+<div class="col-sm-6">
+![](images/Raj_pilot.jpg)
+*Photo: Raj collecting data in North Buffalo Creek*
+
+</div>
+
+I collected data during a pilot study of dead large wood (< 1 m in length and < 10 cm diameter) at Greensboro’s North Buffalo Creek on October 23 and 24, 2020. Three different reaches (sites) of the creek were selected and studied: Latham Park, Audubon Preserve, and Lake Daniel Park. Two hundred meters of each reach was surveyed by following Washington State Large Woody Debris Survey Protocol. 
+
+Some of the metrics that were evaluated were: frequency, and volume of wood at each site (descriptive statistics), whether the frequencies and volume of large wood at each site are statistically significant from each other **(Chi-square test, and Kruskal Wallis test)**. [Click here](https://rpubs.com/rajesh1/701224){target="_blank"} to learn more about it. 
+
+
+---
+
 # Great Smoky Mountains
 
 <div class="col-sm-6">
