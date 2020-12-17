@@ -97,9 +97,10 @@ Two feet interval contour interval of the Guilford county, downloaded from the N
 ![](images/WatershedStreets.jpg)
 
 </div>
-## Introduction
-sed fill tool to fill the small unnatural potholes of the surface. The fill tool smoothens out the surface. The flow direction tool was utilized to determine the direction of the flow from each raster cell. Flow accumulation tool was used to capture flow of the raster file. The outlet point (pour point) was used to capture the flow of the file. The intersection of North Buffalo Creek in Yanceyville street of Greensboro was identified as the pour point. The watershed tool was used to create the outline of the watershed. The raster was then converted to shapefile.
-\
+## Watershed Map
+I used ArcGIS to delineate the watershed of my study site. The intersection of Yanceyville street and North Buffalo Creek was chosen as a pour point. Digital Elevation Model (DEM) was downloaded from the North Carolina GIS archive. First "fill" tool was used to create a depressionless DEM. Then, flow direction grid was created which was followed by the creation of flow accumulation raster. The pout point was used to create watershed raster which was then converted to polygon. 
+
+
 \
 \
 \
@@ -116,12 +117,6 @@ Two feet interval contour interval of the Guilford county, downloaded from the N
 # 3D Surface
 Two feet interval contour interval of the Guilford county, downloaded from the North Carolina State GIS, was used during the process.  Conversion of contour line file into Digital Elevation Model (DEM). Used fill tool to fill the small unnatural potholes of the surface. The fill tool smoothens out the surface. The flow direction tool was utilized to determine the direction of the flow from each raster cell. Flow accumulation tool was used to capture flow of the raster file. The outlet point (pour point) was used to capture the flow of the file. The intersection of North Buffalo Creek in Yanceyville street of Greensboro was identified as the pour point. The watershed tool was used to create the outline of the watershed. The raster was then converted to shapefile. I then used convert raster to TIN to create TIN map of the study site. 
 
-# 3D surface
-Two feet interval contour interval of the Guilford county, downloaded from the North Carolina State GIS, was used during the process.  Conversion of contour line file into Digital Elevation Model (DEM). Used fill tool to fill the small unnatural potholes of the surface. The fill tool smoothens out the surface. The flow direction tool was utilized to determine the direction of the flow from each raster cell. Flow accumulation tool was used to capture flow of the raster file. The outlet point (pour point) was used to capture the flow of the file. The intersection of North Buffalo Creek in Yanceyville street of Greensboro was identified as the pour point. The watershed tool was used to create the outline of the watershed. The raster was then converted to shapefile. I then used convert raster to TIN to create TIN map of the study site. 
 
-# 3D Surface
-Two feet interval contour interval of the Guilford county, downloaded from the North Carolina State GIS, was used during the process.  Conversion of contour line file into Digital Elevation Model (DEM). Used fill tool to fill the small unnatural potholes of the surface. The fill tool smoothens out the surface. The flow direction tool was utilized to determine the direction of the flow from each raster cell. Flow accumulation tool was used to capture flow of the raster file. The outlet point (pour point) was used to capture the flow of the file. The intersection of North Buffalo Creek in Yanceyville street of Greensboro was identified as the pour point. The watershed tool was used to create the outline of the watershed. The raster was then converted to shapefile. I then used convert raster to TIN to create TIN map of the study site.  
 
-# 3D surface
-Two feet interval contour interval of the Guilford county, downloaded from the North Carolina State GIS, was used during the process.  Conversion of contour line file into Digital Elevation Model (DEM). Used fill tool to fill the small unnatural potholes of the surface. The fill tool smoothens out the surface. The flow direction tool was utilized to determine the direction of the flow from each raster cell. Flow accumulation tool was used to capture flow of the raster file. The outlet point (pour point) was used to capture the flow of the file. The intersection of North Buffalo Creek in Yanceyville street of Greensboro was identified as the pour point. The watershed tool was used to create the outline of the watershed. The raster was then converted to shapefile. I then used convert raster to TIN to create TIN map of the study site. 
 
